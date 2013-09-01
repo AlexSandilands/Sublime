@@ -327,13 +327,12 @@
     },
     {
         "class": "sidebar_label",
-        "parents": [{"class": "tree_row", "attributes": ["selected"]}],
-        "color": [242, 242, 242]
+        "color": [193, 193, 193]
     },
     {
         "class": "sidebar_label",
         "parents": [{"class": "tree_row", "attributes": ["selected"]}],
-        "color": [255, 255, 255]
+        "color": [242, 242, 242]
         // , "shadow_color": [60, 60, 60], "shadow_offset": [0, 1]
     },
 
