@@ -29,8 +29,9 @@ $ cp Theme/Default.sublime-theme ~/config/sublime-text-2/Packages/Theme\ -\ Defa
 
 Key Bindings and User Settings:
 --------------------------------
-For windows just copy the file into C:Users/User/AppData/Roaming/Sublime\ Text\ 2/Packages/Default
-and make a backup file somewhere if you like
+For windows:
+Just copy the file into C:Users/User/AppData/Roaming/Sublime\ Text\ 2/Packages/Default
+and make a backup file somewhere if you like.
 
 
 For Linux:
