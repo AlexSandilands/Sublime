@@ -33,7 +33,7 @@ Key Bindings and User Settings:
 
 $ cd ~/.config/sublime-text-2/Packages/Default
 
-$ cp Default\ (Linux).sublime-keymap Default\ (Linux).sublime-keymap.backup
+$ cp Default\ \(Linux\).sublime-keymap Default\ \(Linux\).sublime-keymap.backup
 
 - Backup settings
 
@@ -44,6 +44,6 @@ $ cp Preferences.sublime-settings Preferences.sublime-settings.backup
 
 - Go back to the git folder and copy settings and key bindings into packages
 
-$ cp Default\ (Linux).sublime-keymap ~/.config/sublime-text-2/Packages/Default
+$ cp Default\ \(Linux\).sublime-keymap ~/.config/sublime-text-2/Packages/Default
 
 $ cp Preferences.sublime-settings ~/.config/sublime-text-2/Packages/User
