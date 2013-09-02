@@ -15,34 +15,34 @@ Changed_User_Settings.txt
 
 Theme:
 --------
-- Make a backup of default theme
+- Make a backup of default theme:
 
 $ cd ~/.config/sublime-text-2/Packages/Theme\ -\ Default/
 
 $ cp Default.sublime-theme Default.sublime-theme.backup
 
 
-- Go back to where the git folder is and copy edited theme into packages
+- Go back to where the git folder is and copy edited theme into packages:
 
 $ cp Default.sublime-theme ~/config/sublime-text-2/Packages/Theme\ -\ Default/
 
 
 Key Bindings and User Settings:
 --------------------------------
-- Backup Key bindings
+- Backup Key bindings:
 
 $ cd ~/.config/sublime-text-2/Packages/Default
 
 $ cp Default\ \(Linux\).sublime-keymap Default\ \(Linux\).sublime-keymap.backup
 
-- Backup settings
+- Backup settings:
 
 $ cd ../User
 
 $ cp Preferences.sublime-settings Preferences.sublime-settings.backup
 
 
-- Go back to the git folder and copy settings and key bindings into packages
+- Go back to the git folder and copy settings and key bindings into packages:
 
 $ cp Default\ \(Linux\).sublime-keymap ~/.config/sublime-text-2/Packages/Default
 
