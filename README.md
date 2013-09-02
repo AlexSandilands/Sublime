@@ -24,7 +24,7 @@ $ cp Default.sublime-theme Default.sublime-theme.backup
 
 - Go back to where the git folder is and copy edited theme into packages:
 
-$ cp Default.sublime-theme ~/config/sublime-text-2/Packages/Theme\ -\ Default/
+$ cp Theme/Default.sublime-theme ~/config/sublime-text-2/Packages/Theme\ -\ Default/
 
 
 Key Bindings and User Settings:
@@ -44,6 +44,6 @@ $ cp Preferences.sublime-settings Preferences.sublime-settings.backup
 
 - Go back to the git folder and copy settings and key bindings into packages:
 
-$ cp Default\ \(Linux\).sublime-keymap ~/.config/sublime-text-2/Packages/Default
+$ cp KeyBindings/Default\ \(Linux\).sublime-keymap ~/.config/sublime-text-2/Packages/Default
 
-$ cp Preferences.sublime-settings ~/.config/sublime-text-2/Packages/User
+$ cp Settings/Preferences.sublime-settings ~/.config/sublime-text-2/Packages/User
