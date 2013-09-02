@@ -1,3 +1,5 @@
+{ "keys": ["alt+s"], "command": "toggle_side_bar" },
+
 { "keys": ["alt+up"], "command": "swap_line_up" },
 { "keys": ["alt+down"], "command": "swap_line_down" },
 { "keys": ["alt+right"], "command": "indent" },
