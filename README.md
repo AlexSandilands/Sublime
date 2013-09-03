@@ -5,7 +5,7 @@ Some settings I prefer to change, to make usability nicer.
 
 Default.sublime-theme is an edit to the default theme. I have made the side bar a darker theme,
 rather than the default white. I also made a dark red png to use when highlighting selected rows
-such as in the folder tree (on the side bar) or the auto completion table.
+such as in the folder tree (on the side bar) or the auto completion table. See the screenshots.
 
 Default (Linux).sublime-keymap has some changes to keybindings. They are listed
 in Changed_Key_Bindings.txt
@@ -17,7 +17,7 @@ Changed_User_Settings.txt
 Theme:
 --------
 Note: If the highlighted row in the folder tree or auto complete table is a strange
-flourecent colour then the png is not being found.
+fluorescent colour then the png is not being found.
 
 Make sure it is called:
 
@@ -33,7 +33,7 @@ Installation:
 
 For Windows:
 
-Just copy the files into "C:Users/User/AppData/Roaming/Sublime Text 2/Packages/Theme - Default/"
+-Just copy the files into "C:Users/User/AppData/Roaming/Sublime Text 2/Packages/Theme - Default/".
 Make a backup file of Default.sublime-theme if you want.
 
 
