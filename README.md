@@ -33,7 +33,7 @@ Installation:
 
 For Windows:
 
--Just copy the files into "C:Users/User/AppData/Roaming/Sublime Text 2/Packages/Theme - Default/".
+- Just copy the files into "C:Users/User/AppData/Roaming/Sublime Text 2/Packages/Theme - Default/".
 Make a backup file of Default.sublime-theme if you want.
 
 
