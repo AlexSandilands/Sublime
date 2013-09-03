@@ -254,25 +254,25 @@
     },
     {
         "class": "table_row",
-        "layer0.texture": "Theme - Default/row_highlight_dark.png",
+        "layer0.texture": "Theme - Default/row_highlight_darkred.png",
         "layer0.opacity": 0.0,
         "layer0.inner_margin": [1, 1]
     },
     {
         "class": "table_row",
         "attributes": ["selected"],
-        "layer0.opacity": 0.8
+        "layer0.opacity": 1
     },
     {
         "class": "tree_row",
-        "layer0.texture": "Theme - Default/row_highlight_dark.png",
+        "layer0.texture": "Theme - Default/row_highlight_darkred.png",
         "layer0.opacity": 0.0,
         "layer0.inner_margin": [1, 1]
     },
     {
         "class": "tree_row",
         "attributes": ["selected"],
-        "layer0.opacity": 0.8
+        "layer0.opacity": 0.6
         // TODO: fix selected row color & shadow
     },
     {
