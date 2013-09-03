@@ -261,7 +261,7 @@
     {
         "class": "table_row",
         "attributes": ["selected"],
-        "layer0.opacity": 1
+        "layer0.opacity": 0.95
     },
     {
         "class": "tree_row",
