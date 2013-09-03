@@ -3,8 +3,9 @@ Sublime
 
 Some settings I prefer to change, to make usability nicer.
 
-Default.sublime-theme is a slight edit to the default theme. The difference
-is that I had made the side bar a darker theme, rather than the default white
+Default.sublime-theme is an edit to the default theme. I have made the side bar a darker theme,
+rather than the default white. I also made a dark red png to use when highlighting selected rows
+such as in the folder tree (on the side bar) or the auto completion table.
 
 Default (Linux).sublime-keymap has some changes to keybindings. They are listed
 in Changed_Key_Bindings.txt
@@ -15,10 +16,25 @@ Changed_User_Settings.txt
 
 Theme:
 --------
+Note: If the highlighted row in the folder tree or auto complete table is a strange
+flourecent colour then the png is not being found.
+
+Make sure it is called:
+
+- row_highlight_darkred.png
+
+and is in the correct directory:
+
+- Linux: ~/.config/sublime-text-2/Packages/Theme\ -\ Default/
+- Windows: "C:Users/User/AppData/Roaming/Sublime Text 2/Packages/Theme - Default/"
+
+
+Installation:
+
 For Windows:
 
-Just copy the file into "C:Users/User/AppData/Roaming/Sublime Text 2/Packages/Theme - Default/"
-Make a backup file if you want
+Just copy the files into "C:Users/User/AppData/Roaming/Sublime Text 2/Packages/Theme - Default/"
+Make a backup file of Default.sublime-theme if you want.
 
 
 For Linux:
@@ -30,10 +46,11 @@ $ cd ~/.config/sublime-text-2/Packages/Theme\ -\ Default/
 $ cp Default.sublime-theme Default.sublime-theme.backup
 
 
-- Go back to where the git folder is and copy edited theme into packages:
+- Go back to where the git folder is and copy edited theme and png into packages:
 
-$ cp Theme/Default.sublime-theme ~/config/sublime-text-2/Packages/Theme\ -\ Default/
+$ cp Theme/Default.sublime-theme ~/.config/sublime-text-2/Packages/Theme\ -\ Default/
 
+$ cp Theme/DarkRed.png ~/.config/sublime-text-2/Packages/Theme\ -\ Default/
 
 Key Bindings and User Settings:
 --------------------------------
