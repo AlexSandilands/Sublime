@@ -41,16 +41,16 @@ For Linux:
 
 - Make a backup of default theme:
 
-    $ cd ~/.config/sublime-text-2/Packages/Theme\ -\ Default/
+        $ cd ~/.config/sublime-text-2/Packages/Theme\ -\ Default/
 
-    $ cp Default.sublime-theme Default.sublime-theme.backup
+        $ cp Default.sublime-theme Default.sublime-theme.backup
 
 
 - Go back to where the git folder is and copy edited theme and png into packages:
 
-    $ cp Theme/Default.sublime-theme ~/.config/sublime-text-2/Packages/Theme\ -\ Default/
+        $ cp Theme/Default.sublime-theme ~/.config/sublime-text-2/Packages/Theme\ -\ Default/
 
-    $ cp Theme/DarkRed.png ~/.config/sublime-text-2/Packages/Theme\ -\ Default/
+        $ cp Theme/DarkRed.png ~/.config/sublime-text-2/Packages/Theme\ -\ Default/
 
 Key Bindings and User Settings:
 --------------------------------
@@ -63,19 +63,19 @@ and make a backup file somewhere if you like.
 For Linux:
 - Backup Key bindings:
 
-    $ cd ~/.config/sublime-text-2/Packages/Default
+        $ cd ~/.config/sublime-text-2/Packages/Default
 
-    $ cp Default\ \(Linux\).sublime-keymap Default\ \(Linux\).sublime-keymap.backup
+        $ cp Default\ \(Linux\).sublime-keymap Default\ \(Linux\).sublime-keymap.backup
 
 - Backup settings:
 
-    $ cd ../User
+        $ cd ../User
 
-    $ cp Preferences.sublime-settings Preferences.sublime-settings.backup
+        $ cp Preferences.sublime-settings Preferences.sublime-settings.backup
 
 
 - Go back to the git folder and copy settings and key bindings into packages:
 
-    $ cp KeyBindings/Default\ \(Linux\).sublime-keymap ~/.config/sublime-text-2/Packages/Default
+        $ cp KeyBindings/Default\ \(Linux\).sublime-keymap ~/.config/sublime-text-2/Packages/Default
 
-    $ cp Settings/Preferences.sublime-settings ~/.config/sublime-text-2/Packages/User
+        $ cp Settings/Preferences.sublime-settings ~/.config/sublime-text-2/Packages/User
