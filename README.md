@@ -1,6 +1,12 @@
 Sublime
 =======
 
+NOTE:   If you are trying to save settings, or changing files in the sublime-text-2 folder and
+        you are getting things like "You lack the permissions to do that", this is likely because
+        when you ran Sublime for the first time you ran it as root (ie sudo sublime ...). Simply
+        rm -rf ~/.config/sublime-text-2 , then run sublime (not as root) to generate to generate
+        the config files again.
+
 Some settings I prefer to change, to make usability nicer.
 
 Default.sublime-theme is an edit to the default theme. I have made the side bar a darker theme,
