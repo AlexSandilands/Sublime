@@ -5,7 +5,7 @@ NOTE:   If you are trying to save settings, or changing files in the sublime-tex
         you are getting things like "You lack the permissions to do that", this is likely because
         the first time you ran Sublime as root (ie sudo sublime ...)
         Simply rm -rf ~/.config/sublime-text-2 , then run sublime (not as root) to generate the config
-        files again. git test
+        files again.
 
 Some settings I prefer to change, to make usability nicer.
 
