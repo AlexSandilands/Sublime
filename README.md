@@ -56,7 +56,7 @@ For Linux:
 
         $ cp Theme/Default.sublime-theme ~/.config/sublime-text-2/Packages/Theme\ -\ Default/
 
-        $ cp Theme/DarkRed.png ~/.config/sublime-text-2/Packages/Theme\ -\ Default/
+        $ cp Theme/row_highlight_darkred.png ~/.config/sublime-text-2/Packages/Theme\ -\ Default/
 
 Key Bindings and User Settings:
 --------------------------------
